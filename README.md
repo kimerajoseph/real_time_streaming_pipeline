@@ -19,5 +19,5 @@ Data streaming has become ubiquitous and critical to business success
 2. Append prefixes onto the data and use month names as partitions in S3 bucket where the firehose stores data
 3. Connect the stream to AWS QuickSight for better visualization
 
-## Original tutorial
+## Original tutorial from AWS
 https://www.youtube.com/watch?v=SX_6x_wXIfA
